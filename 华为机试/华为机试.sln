@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-明明的随机数", "3-�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-字符串分隔", "4-字符串分隔\4-字符串分隔.csproj", "{89A4A6A6-3701-4D10-B04A-4A98D8873249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-进制转换", "5-进制转换\5-进制转换.csproj", "{060F3E01-F781-4298-8CBD-AF2A44A114CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{89A4A6A6-3701-4D10-B04A-4A98D8873249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A4A6A6-3701-4D10-B04A-4A98D8873249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A4A6A6-3701-4D10-B04A-4A98D8873249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060F3E01-F781-4298-8CBD-AF2A44A114CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F3E01-F781-4298-8CBD-AF2A44A114CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F3E01-F781-4298-8CBD-AF2A44A114CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F3E01-F781-4298-8CBD-AF2A44A114CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
